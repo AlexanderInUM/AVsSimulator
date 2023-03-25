@@ -1,3 +1,5 @@
+.vs
+
 syntax: glob
 obj/
 Assets/Wwise/Deployment/Plugins/
